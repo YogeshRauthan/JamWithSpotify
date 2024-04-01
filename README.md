@@ -1,6 +1,6 @@
 # JamWithSpotify
 
-Please check out our Spotify-inspired platform at: http://jamwithspotify.freewebhostmost.com/
+Please check out our Spotify-inspired platform at: http://jamwithspotify.freewebhostmost.com/ <br>
 Our Spotify clone offers a seamless user experience with a range of functions designed to mimic the popular music streaming platform. Built with responsiveness in mind, the clone adapts flawlessly to various devices, ensuring optimal user engagement across desktop and mobile.
 
 Key Features:
