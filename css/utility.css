@@ -1,0 +1,64 @@
+.border {
+    border: 2px solid red;
+    margin: 3px;
+}
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.bg-gray {
+    background-color: #222222;
+}
+
+.rounded {
+    border-radius: 7px;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+.p-1 {
+    padding: 10px;
+}
+
+/* For WebKit based browsers */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #333; /* Background color of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #666; /* Color of the scrollbar thumb */
+    border-radius: 6px; /* Radius of the scrollbar thumb */
+    border: 3px solid #333; /* Border around the scrollbar thumb */
+}
+
+/* For Firefox */
+/* Note: Firefox doesn't support customizing the scrollbar appearance like WebKit browsers */
+/* But you can still apply a color scheme to match your dark website */
+/* For example, setting background-color for scrollbar, thumb, and track */
+html {
+    scrollbar-color: #666 #333; /* Color scheme for scrollbar thumb and track */
+    scrollbar-width: thin; /* Width of the scrollbar */
+}
